@@ -1,0 +1,135 @@
+LAND COMBAT
+Standard Action - You can perform one standard action per turn. A standard action can be used to perform a move or swift action instead.
+    Activate an Item - CRB, pg. 244
+        Certain items need to be activated to have an effect. Unless otherwise noted, activating such an item is a standard action.
+
+    Attack - CRB, pg. 244-245
+        Making a single attack is a standard action.
+        Melee Attacks
+            With a melee weapon, attack a target within your reach. Add your Strength modifier to your melee attack rolls and your melee damage rolls.
+        Ranged Attacks
+            With a ranged weapon, attack a target within the weapon’s maximum range and in your line of effect. Add your Dexterity modifier to your ranged attack rolls, but not your ranged damage rolls.
+            Range/Penalties
+                An attack with a ranged weapon from a distance greater than its listed range increment takes a cumulative –2 penalty to the attack roll for each full or partial range increment of distance beyond the first.
+                Unless otherwise stated, the maximum range for ranged weapons is 10 range increments, or 5 range increments for thrown weapons.
+            Ranged Attacks With a Thrown Weapon
+                With a thrown weapon or grenade, attack a target within the weapon’s maximum range and in your line of effect. Add your Strength modifier to your ranged attack rolls, and to your damage rolls with weapons with the thrown special property. Do not add your Strength modifier to damage rolls with grenades.
+                If you miss on a ranged attack with a thrown weapon, the weapon lands in a random square or grid intersection as appropriate near your target. To determine where it lands, roll 1d8 and 1d4. The d8 determines the misdirection of the throw, with 1 falling short (off-target in a straight line toward the thrower), and 2 through 8 rotating around the target creature or grid intersection clockwise. The d4 determines how many squares away in that direction the weapon lands.
+            Targeting a Grid Intersection
+                When using a weapon with the explode special property or a thrown weapon that has an area effect, target a specific grid intersection on a tactical battle map, rather than a specific creature. Treat this as a ranged attack against AC 5.
+            Critical Hits
+                When you get a natural 20 on an attack roll, you hit regardless of your target’s AC. If the total result of your attack roll would hit the target anyway, the attack is a critical hit. On a critical hit, roll damage twice, each time with all your usual bonuses and including any additional damage from special abilities, then add the rolls together. Some weapons inflict a special effect on a target of a critical hit, in addition to dealing double damage.
+
+    Cast a Spell - CRB, pg. 246
+        Most spells require at least a standard action to cast. Spells that take more than a round to cast require a full action each round until they are complete.
+        Casting While Threatened
+            Provokes attack of opportunity, unless spell specifies otherwise. If attack hits/damages you, you fail to cast spell/lose spell slot
+
+    Combat Manuever - As a standard action, attempt a combat maneuver. Target an opponent within your reach and make a melee attack roll against their KAC + 8.
+        Bull Rush - CRB, pg. 246
+            knock the target back 5 feet, plus 5 additional feet for every 5 by which the result of your attack roll exceeds the target’s KAC + 8. If an obstacle is in the way, the target stops at the obstacle instead.
+
+[RESUME HERE]
+https://www.aonsrd.com/Rules.aspx?ID=93
+https://thehiddentruth.info/rules/tactical/actions
+https://anyflip.com/uwvkk/ynio
+https://tyoung-99.github.io/starfinder-quickref/preview/quickref.html
+        
+        Dirty Trick - CRB, pg. 246
+
+
+        Disarm - CRB, pg. 246
+
+
+        Grapple - CRB, pg. 246
+
+
+        Reposition - CRB, pg. 246
+
+
+        Sunder - CRB, pg. 246
+
+
+        Trip - CRB, pg. 246
+
+
+    Concentrate to maintain a spell - CRB, pg. 246
+
+    Covering fire - CRB, pg. 246
+
+    Dismiss a spell - CRB, pg. 246
+
+    Feint - CRB, pg. 247
+
+    Fight Defensively - CRB, pg. 247
+
+    Harrying fire - CRB, pg. 247
+
+    Total defense - CRB, pg. 247
+
+    Use a special ability - CRB, pg. 247
+
+Move Action - 1/turn, can be used to perform swift instead
+    Crawl - CRB, pg. 247
+
+    Direct or Redirect an Effect - CRB, pg. 247
+
+    Draw or Sheathe a Weapon - CRB, pg. 247
+
+    Guarded Step - CRB, pg. 247
+
+    Manipulate an Item - CRB, pg. 247
+
+    Move Your Speed - CRB, pg. 247
+
+    Reload - CRB, pg. 247
+
+    Stand Up - CRB, pg. 247
+
+Swift Action - 1/turn
+    Change Grips - CRB, pg. 247
+
+    Drop Prone - CRB, pg. 247
+
+Full Action - consumes standard, move, and swift; if any already taken, cannot take full action; if unable to take any of 3 for whatever reason, cannot take full action
+    Charge - CRB, pg. 248
+
+    Coup de Grace - CRB, pg. 248
+
+    Fight Defensively - CRB, pg. 248
+
+    Full Attack - CRB, pg. 248
+
+    Run - CRB, pg. 248
+
+    Withdraw - CRB, pg. 248
+
+Reaction - 1/round, regained at start of turn, response to specific trigger, even when not your turn; unless stated otherwise, if purely defensive, interrupts triggering action, otherwise occurs immediately after triggering action
+    Attack of opportunity - CRB, pg. 248-249
+
+Other Actions
+    Combat Banter - CRB, pg. 249
+
+    Delay - CRB, pg. 249
+
+    Drop an Item - CRB, pg. 249
+
+    Ready an Action - CRB, pg. 249
+
+    Use a Skill - CRB, pg. 249
+
+
+[Skill-related in appropriate section]
+
+Conditions
+
+
+ENVIRONMENTAL FACTORS
+
+
+VEHICLE CHASES
+
+
+STARSHIP COMBAT
+
+
