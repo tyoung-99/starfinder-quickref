@@ -126,7 +126,7 @@ Move Action - You can perform one move action on your turn. A move action can be
     Use a Skill - CRB, pg. 249
         Using a skill in combat usually requires taking an action. The action required when using a skill depends on the skill and the specific task you’re trying to accomplish. Common tasks requiring a move action are detailed here.
         Balance (Acrobatics) - CRB, pg. 135
-            This is done as part of another move action.
+            This skill is used as part of another move action.
             Make an Acrobatics check to move across narrow surfaces and uneven ground without falling. A successful check allows you to move at half your land speed across such a surface. While balancing, you are flat-footed. If you fail the Acrobatics check to begin moving across a narrow surface or uneven ground, your move action ends at the point just before you’d need to begin balancing. If you fail the check while already balancing (having succeeded on a previous turn), you fall prone and the GM may rule that you start falling, depending on the type of surface you are moving across.
             If you take damage while balancing, you must immediately attempt an Acrobatics check at the initial DC. On a success, you remain balancing (and can continue to move if it is your turn). If you fail, you fall prone and, depending on the type of surface you are balancing upon, the GM can rule that you start falling.
             The DCs for Acrobatics checks to balance are based on the width of the surface you are traversing, but can also be adjusted based on environmental circumstances such as slope and surface conditions. Such modifiers are cumulative; use all that apply.
@@ -136,8 +136,8 @@ Move Action - You can perform one move action on your turn. A move action can be
             11–7 inches wide	        10
             6–2 inches wide             15
             Less than 2 inches wide	    20
-            * No Acrobatics check is needed to move across these surfaces unless a DC modifier (see the table below) increases the DC to 10 or higher.
-            Circumstance	                            DC Modifier
+            * No Acrobatics check is needed to move across these surfaces unless a DC modifier (see table below) increases the DC to 10 or higher.
+            Circumstance	                            DC Modifier (Cumulative)
             Slightly obstructed (gravel, sand)	        +2
             Severely obstructed (cavern, rubble)	    +5
             Slightly slippery (wet)	                    +2
@@ -150,19 +150,19 @@ Move Action - You can perform one move action on your turn. A move action can be
         Fly (Acrobatics) - CRB, pg. 135-136
             Make an Acrobatics check against the appropriate DC on the chart below to complete one of the following tasks.
             Fly in Dangerous Wind Conditions - CRB, pg. 135
-                This is done as part of another move action.
+                This skill is used as part of another move action.
                 In conditions of windstorm or higher (see chart below), you must make an Acrobatics check to stay aloft each time you move. If you fail this check, you cannot move. If you fail this check by 5 or more, you are blown 2d6 × 10 feet in the direction of the prevailing wind (or in a direction decided by the GM), and take 2d6 bludgeoning damage.
             Hover - CRB, pg. 135-136
                 Make an Acrobatics check to hover while flying. If you fail, you fall.
                 If you have clumsy maneuverability, you can’t hover at all. If you have average maneuverability and at least 5 ranks in Acrobatics or if you have perfect maneuverability, you can hover automatically without attempting a check and it doesn't require a move action.
-            Wind Conditions*                DC
-            Light to moderate (0–20 mph)	15
-            Strong (21–30 mph)	            17
-            Severe (31–50 mph)	            19
-            Windstorm (51–74 mph)	        27
-            Hurricane force (75–174 mph)	33
-            Tornado force (175+ mph)	    39
-            * The DC increases by as much as 5 for choppy wind or airborne debris, or 10 for both.
+                Wind Conditions*                DC
+                Light to moderate (0–20 mph)	15
+                Strong (21–30 mph)	            17
+                Severe (31–50 mph)	            19
+                Windstorm (51–74 mph)	        27
+                Hurricane force (75–174 mph)	33
+                Tornado force (175+ mph)	    39
+                * The DC increases by as much as 5 for choppy wind or airborne debris, or 10 for both.
         Tumble (Acrobatics) - CRB, pg. 136
             Make an Acrobatics check to move through a space threatened by an enemy or enemies, or directly through an opponent’s space, without provoking attacks of opportunity from them.
             If you fail a check to tumble through a threatened space, you provoke attacks of opportunity as normal. If you fail a check to tumble directly through an opponent's space, you stop moving adjacent to your opponent and provoke an attack of opportunity.
@@ -172,7 +172,7 @@ Move Action - You can perform one move action on your turn. A move action can be
             Situation	                    DC
             Move through a threatened area	15 + 1-1/2 × highest opponent’s CR + 2 per additional opponent + 2 per previous tumble check this round
             Move through an enemy’s space	20 + 1-1/2 × opponent’s CR + 2 per previous tumble check this round
-            Circumstance	                            DC Modifier
+            Circumstance	                            DC Modifier (Cumulative)
             Slightly obstructed (gravel, sand)	        +2
             Severely obstructed (cavern, rubble)	    +5
             Slightly slippery (wet)	                    +2
@@ -182,6 +182,70 @@ Move Action - You can perform one move action on your turn. A move action can be
             Slightly unsteady (rough spaceflight)	    +2
             Moderately unsteady (jostled spacecraft)	+5
             Severely unsteady (earthquake)	            +10
+        Climb (Athletics) - CRB, pg. 136
+            This skill is used as part of another move action.
+            Make an Athletics to climb on any surface that is not perfectly smooth, including ceilings if they have handholds.
+            If you succeed, you move at half your land speed across such a surface.
+            If you fail by 4 or less, you make no progress. If you fail by 5 or more, you fall.
+            You need at least two hands to climb, but you can cling to a surface with one hand to take some action that requires only one hand.
+            While climbing or clinging, you are flat-footed.
+            If you have a climb speed, you receive a +8 bonus to Athletics checks to climb and don't need to attempt Athletics checks to climb except in hazardous circumstances.
+            Object Being Climbed	                                                                                                            DC
+            A slope of more than 45 degrees, a ladder, or a knotted rope with a wall to brace against	                                        5
+            An unknotted cable or rope with a wall to brace against, or a knotted rope without a wall to brace against	                        10
+            A rough surface or a wall with adequate handholds, like a natural rock surface, a cavern wall, or an artificial wall with cabling
+            An unknotted cable or rope without a wall to brace against A ledge from which you are dangling by your hands	                    15
+            An uneven surface with narrow handholds, like a stone or brick wall	                                                                20
+            A relatively smooth surface with occasional handholds, like a space station wall or an ice wall	                                    25
+            An overhang or a ceiling with handholds only	                                                                                    30
+            A perfectly smooth surface	                                                                                                        —
+            Circumstance	                                            DC Modifier (Cumulative)
+            Bracing against two opposite walls	                        –10
+            Climbing a corner or bracing against perpendicular walls	–5
+            Climbing in zero or low gravity	                            –5
+            Climbing in heavy gravity*	                                +5
+            Wet or slightly slippery walls	                            +2
+            Icy or severely slippery walls*	                            +5
+            Climbing in strong wind (21–30 mph)	                        +2
+            Climbing in severe wind (31–50 mph)*	                    +5
+            Climbing in a windstorm (51–74 mph)*	                    +10
+            Climbing in hurricane-force wind (75–174 mph)*	            +20
+            Climbing in tornado-force wind (175+ mph)*	                +30
+            * Hazardous circumstance; creatures with a climb speed must attempt a check in these conditions.
+        Jump (Athletics) - CRB, pg. 136-137
+            This skill is used as part of another move action.
+            Make an Athletics check to horizontally or vertically jump a distance no greater than your remaining amount of movement.
+            If you take a 10-foot running start just prior to the jump attempt, the DC is equal to the number of feet you are attempting to jump horizontally, or four times the number of feet you are attempting to jump vertically. Without a 10-foot running start, the DC doubles.
+            If you fail the check, you fall. If you fail by 5 or more, you fall prone even if you don’t take any damage from the fall.
+            Creatures with a land speed of 35 feet or more gain a +4 bonus to Athletics checks to jump. This bonus increases by 4 for every 10 by which a creature’s land speed exceeds 40 feet.
+            Circumstance	                            DC Modifier (Cumulative)
+            Slightly obstructed (gravel, sand)	        +2
+            Severely obstructed (cavern, rubble)	    +5
+            Slightly slippery (wet)	                    +2
+            Severely slippery (icy)	                    +5
+            Slightly sloped (<45 degrees)	            +2
+            Severely sloped (>45 degrees)	            +5
+            Slightly unsteady (rough spaceflight)	    +2
+            Moderately unsteady (jostled spacecraft)	+5
+            Severely unsteady (earthquake)	            +10
+        Swim (Athletics) - CRB, pg. 137; SAP #36. pg. 48
+            This skill is used as part of another move action.
+            Make an Athletics check to swim.
+            On a successful check, you move half your land speed through water and similar fluids.
+            If you fail the check by 4 or less, you make no progress. If you fail by 5 or more, you sink beneath the surface or sink deeper, and you must hold your breath or begin drowning.
+            If you do not have a swim speed, for each hour you swim, you must succeed at a DC 20 Athletics check or take 1d6 nonlethal damage from fatigue. If you have a swim speed, you move at your full swim speed when swimming, receive a +8 bonus to all Athletics checks to swim, don’t need to attempt Athletics checks to swim except in hazardous circumstances (see table below), and can swim while taking the run action.
+            Environmental Conditions	DC
+            Calm	                    10
+            Rough	                    15
+            Stormy*	                    20
+            Maelstrom*	                30
+            Circumstance	                                        DC Modifier (Cumulative)
+            Light debris or disruption	                            +2
+            Heavy debris or disruption*	                            +5
+            Swimming with a current*	                            +5
+            Swimming against a current*	                            +10
+            Swimming against a jet of liquid or a strong current*	+15
+            * Hazardous circumstance; creatures with a swim speed must attempt a check in these conditions.
 
     Use a Special Ability - CRB, pg. 247
         Using a special ability is usually a standard action, unless it is an ongoing ability or the ability says otherwise. In rare cases, an ability might take a full action or a move action to activate. In most cases, a use-activated special ability cannot be activated as a swift action. Using a spell-like ability typically provokes attacks of opportunity unless stated otherwise.
@@ -248,6 +312,24 @@ Full Action - A full action requires your entire turn to complete. You can't tak
             Slightly unsteady (rough spaceflight)	    +2
             Moderately unsteady (jostled spacecraft)	+5
             Severely unsteady (earthquake)	            +10
+        Swim (Athletics) - CRB, pg. 137; SAP #36. pg. 48
+            This skill is used as part of a run action.
+            This skill can only be used if you have a swim speed. Any creature, including those without a swim speed, can attempt to swim as part of a move action.
+            Make an Athletics check to swim if the conditions are hazardous (see table below). You gain a +8 bonus due to your swim speed.
+            On a successful check (or if no check was needed), you move up to four times your swim speed in a straight line through water and similar fluids.
+            If you fail the check by 4 or less, you make no progress. If you fail by 5 or more, you sink beneath the surface or sink deeper, and you must hold your breath or begin drowning.
+            Environmental Conditions	DC
+            Calm	                    10
+            Rough	                    15
+            Stormy*	                    20
+            Maelstrom*	                30
+            Circumstance	                                        DC Modifier (Cumulative)
+            Light debris or disruption	                            +2
+            Heavy debris or disruption*	                            +5
+            Swimming with a current*	                            +5
+            Swimming against a current*	                            +10
+            Swimming against a jet of liquid or a strong current*	+15
+            * Hazardous circumstance; creatures with a swim speed must attempt a check in these conditions.
     
     Use a Special Ability - CRB, pg. 247
         Using a special ability is usually a standard action, unless it is an ongoing ability or the ability says otherwise. In rare cases, an ability might take a full action or a move action to activate. In most cases, a use-activated special ability cannot be activated as a swift action. Using a spell-like ability typically provokes attacks of opportunity unless stated otherwise.
