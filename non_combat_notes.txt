@@ -55,6 +55,11 @@ Climb (Athletics) - CRB, pg. 136
     * Hazardous circumstance; creatures with a climb speed must attempt a check in these conditions.
     You can't take 20 on Athletics checks to climb.
 
+Diversion (Bluff) - CRB, pg. 137
+    This skill requires a move action.
+    Make a Bluff check opposed by the Sense Motive check of the creature(s) you are attempting to beguile.
+    If you succeed, you can either attempt the hide task of Stealth as if you had cover or concealment, or you gain a +10 bonus to perform the palm an object task of Sleight of Hand (your choice).
+
 Escape (Acrobatics) - CRB, pg. 135
     To escape from restraints, make an Acrobatics check against a DC as determined below. Escaping from restraints can take 1 minute or more.
     Circumstance                DC
@@ -65,13 +70,13 @@ Fly (Acrobatics) - CRB, pg. 135-136
     Make an Acrobatics check against the appropriate DC on the chart below to complete one of the following tasks.
     You receive a bonus or penalty to Acrobatics checks to fly depending on your maneuverability: a –8 penalty for clumsy maneuverability, no bonus for average maneuverability, or a +8 bonus for perfect maneuverability.
         Avoid Falling Damage - CRB, pg. 135
-            This skill takes a reaction.
+            This skill requires a reaction.
             If you are falling and can fly, you can attempt to negate the damage from the fall. If you fail, you fall normally. If you have perfect maneuverability, you can avoid falling damage automatically without attempting a check.
         Fly in Dangerous Wind Conditions - CRB, pg. 135
             This skill is used as part of a move action.
             In conditions of windstorm or higher (see chart below), you must make an Acrobatics check to stay aloft each time you move. If you fail this check, you cannot move. If you fail this check by 5 or more, you are blown 2d6 × 10 feet in the direction of the prevailing wind (or in a direction decided by the GM), and take 2d6 bludgeoning damage.
         Hover - CRB, pg. 135-136
-            This skill takes a move action.
+            This skill requires a move action.
             Make an Acrobatics check to hover while flying. If you fail, you fall.
             If you have clumsy maneuverability, you can’t hover at all. If you have average maneuverability and at least 5 ranks in Acrobatics or if you have perfect maneuverability, you can hover automatically without attempting a check and it doesn't require a move action.
     Wind Conditions*                DC

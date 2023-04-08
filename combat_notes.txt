@@ -71,7 +71,7 @@ Standard Action - You can perform one standard action on your turn. A standard a
         To escape from grapples or pins, make an Acrobatics check against DC 10 + grappler's KAC. On a success, you free yourself from the grapple or pin and no longer have the grappled or pinned condition.
         Escaping from restraints requires an Acrobatics check against a set DC and can take 1 minute or more (see noncombat reference).
     
-    Feint - CRB, pg. 247
+    Feint (Bluff) - CRB, pg. 137, 247
         Attempt a Bluff check. The DC check either 10 + your opponent’s Sense Motive total skill bonus or 15 + 1-1/2 × the opponent’s CR, whichever is greater. You can’t feint against a creature that lacks an INT score. When you successfully feint, you treat your opponent as flat-footed for your next attack against him before the end of your next turn.
 
     Fight Defensively - CRB, pg. 247
@@ -159,6 +159,10 @@ Move Action - You can perform one move action on your turn. A move action can be
     Direct or Redirect an Effect - CRB, pg. 247
         Some technology and spells allow you to redirect an effect to new targets or areas. Redirecting requires a move action unless the technology or spell states otherwise.
 
+    Diversion (Bluff) - CRB, pg. 137
+        Make a Bluff check opposed by the Sense Motive check of the creature(s) you are attempting to beguile.
+        If you succeed, you can either attempt the hide task of Stealth as if you had cover or concealment, or you gain a +10 bonus to perform the palm an object task of Sleight of Hand (your choice).
+    
     Draw or Sheathe a Weapon - CRB, pg. 247
         Draw a weapon so that you can use it in combat or put it away so that you have a free hand. This action includes activating or deactivating the weapon. This also applies to weapon-like objects that are easily accessible, such as remote controls and most tools or sensors you can carry and use with one hand. If your weapon or weapon-like object is stored in a pack or otherwise out of easy reach, you must instead retrieve it as a stored item before you can use it (see Manipulate an Item).
         If your base attack bonus is at least +1, you can combine drawing or sheathing a weapon or weapon-like object with moving up to your speed as a single move action.
