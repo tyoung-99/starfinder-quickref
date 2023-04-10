@@ -107,6 +107,21 @@ Jump (Athletics) - CRB, pg. 136-137
     Severely unsteady (earthquake)	            +10
     You can't take 20 on Athletics checks to jump.
 
+Lie (Bluff) - CRB, pg. 137
+    This skill requires at least a full action, possibly more, unless the lie is quick and simple enough to be part of combat banter.
+    If the creature is suspicious or attending carefully to your lie (as per the detect deception task for Sense Motive), the check is opposed by the Sense Motive check of the creature you are lying to; otherwise, the DC of this check is equal to 10 + the creature’s total Sense Motive skill bonus. If you succeed, the creature you are lying to believes you are telling the truth, at least until confronted with evidence to the contrary. The GM may determine that some lies are so improbable that it is impossible to convince someone they are true.
+    The DCs for Bluff checks to lie are adjusted based on the target’s initial attitude toward you (see Diplomacy on page 139) as well as other circumstances determined by the GM (such as the plausibility of the lie).
+    Initial Attitude	DC Modifier
+    Hostile	            +10
+    Unfriendly	        +5
+    Indifferent	        +0
+    Friendly	        –5
+    Helpful	            –5
+
+Pass Secret Message (Bluff) - CRB, pg. 137
+    You can use Bluff to pass a secret message to an ally without others understanding the message’s true meaning. The DC of this check is 15 for simple messages and 20 for more complex messages, as determined by the GM. Those overhearing the message can attempt an opposed Sense Motive check to learn the gist of the message.
+    You can't take 20 on a Bluff check to pass a secret message.
+
 Swim (Athletics) - CRB, pg. 137; SAP #36. pg. 48
     This skill is used as part of another move action.
     Make an Athletics check to swim.

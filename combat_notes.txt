@@ -72,7 +72,8 @@ Standard Action - You can perform one standard action on your turn. A standard a
         Escaping from restraints requires an Acrobatics check against a set DC and can take 1 minute or more (see noncombat reference).
     
     Feint (Bluff) - CRB, pg. 137, 247
-        Attempt a Bluff check. The DC check either 10 + your opponent’s Sense Motive total skill bonus or 15 + 1-1/2 × the opponent’s CR, whichever is greater. You can’t feint against a creature that lacks an INT score. When you successfully feint, you treat your opponent as flat-footed for your next attack against him before the end of your next turn.
+        Attempt a Bluff check. The DC check either 10 + your opponent’s Sense Motive total skill bonus or 15 + 1-1/2 × the opponent’s CR, whichever is greater. You can’t feint against a creature that lacks an INT score.
+        When you successfully feint, you treat your opponent as flat-footed for your next attack against him before the end of your next turn.
 
     Fight Defensively - CRB, pg. 247
         As part of making an attack, take a –4 penalty to attacks and gain a +2 bonus to AC until the start of your next turn.
@@ -298,6 +299,17 @@ Full Action - A full action requires your entire turn to complete. You can't tak
         Certain weapons have special individualized full attacks.
         You can fight defensively as part of making a full attack.
 
+    Lie (Bluff) - CRB, pg. 137
+        This skill requires at least a full action, possibly more, unless the lie is quick and simple enough to be part of combat banter.
+        If the creature is suspicious or attending carefully to your lie (as per the detect deception task for Sense Motive), the check is opposed by the Sense Motive check of the creature you are lying to; otherwise, the DC of this check is equal to 10 + the creature’s total Sense Motive skill bonus. If you succeed, the creature you are lying to believes you are telling the truth, at least until confronted with evidence to the contrary. The GM may determine that some lies are so improbable that it is impossible to convince someone they are true.
+        The DCs for Bluff checks to lie are adjusted based on the target’s initial attitude toward you (see Diplomacy on page 139) as well as other circumstances determined by the GM (such as the plausibility of the lie).
+        Initial Attitude	DC Modifier
+        Hostile	            +10
+        Unfriendly	        +5
+        Indifferent	        +0
+        Friendly	        –5
+        Helpful	            –5
+    
     Reposition - CRB, pg. 246
         You move 5 feet, plus another 5 feet for every 5 by which the result of your attack roll exceeds the target’s KAC + 8, dragging the target along with you. You cannot move the target past an obstacle.
         If you reposition a creature as a standard action, you can only move the target, not yourself, and all movement must remain within your reach.
@@ -386,6 +398,20 @@ Non-Actions - These don't require any action to perform.
 
     Drop an Item - CRB, pg. 249
         Drop any item or items that you’re holding into your square or an adjacent square at any time.
+    
+    Lie (Bluff) - CRB, pg. 137
+        A quick, simple lie in combat is part of combat banter; otherwise, telling a lie is at least a full action.
+        If the creature is suspicious or attending carefully to your lie (as per the detect deception task for Sense Motive), the check is opposed by the Sense Motive check of the creature you are lying to; otherwise, the DC of this check is equal to 10 + the creature’s total Sense Motive skill bonus. If you succeed, the creature you are lying to believes you are telling the truth, at least until confronted with evidence to the contrary. The GM may determine that some lies are so improbable that it is impossible to convince someone they are true.
+        The DCs for Bluff checks to lie are adjusted based on the target’s initial attitude toward you as well as other circumstances determined by the GM (such as the plausibility of the lie).
+        Initial Attitude	DC Modifier
+        Hostile	            +10
+        Unfriendly	        +5
+        Indifferent	        +0
+        Friendly	        –5
+        Helpful	            –5
+    
+    Pass Secret Message (Bluff) - CRB, pg. 137
+        You can use Bluff to pass a secret message to an ally without others understanding the message’s true meaning. The DC of this check is 15 for simple messages and 20 for more complex messages, as determined by the GM. Those overhearing the message can attempt an opposed Sense Motive check to learn the gist of the message.
 
 Conditions
 
